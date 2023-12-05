@@ -39,23 +39,20 @@ from and use AI generated language.
 In this course, we will begin to answer these questions in two
 ways:
 
-1.  Analyzing Key Issues: Drawing upon relevant frameworks in communication
+1.  Analyzing Key Issues: Drawing upon relevant frameworks in
+    communication and language theory we will explore the
+    transformative nature of AI-generated communication and its impact
+    on individuals and society.
+2.  Hands-on Application: In parallel, students will acquire skills
+    using Python in implementing machine and deep learning models to
+    better understand how they work and explore their abilities and
+    limitations. We will code various AI models, such as a simple voice
+    assistant, image classifier, misinformation identifier, and a basic
+    text generative application.
 
-and language theory we will explore the transformative nature of
-AI-generated communication and its impact on individuals and society.
-
-1.  Hands-on Application: In parallel, students will
-
-acquire skills using Python in implementing machine and deep learning
-models to better understand how they work and explore their abilities
-and limitations. We will code various AI models, such as a simple
-voice assistant, image classifier, misinformation identifier, and a
-basic text generative application.
-
-Through this course students will be equipped for a range of
-contexts impacted by developments in AI. The course
-requires students to have a basic experience in Python coding and
-using Jupyter notebooks.
+Through this course students will be equipped for a range of contexts
+impacted by developments in AI. The course requires students to have a
+basic experience in Python coding and using Jupyter notebooks.
 
 
 ## Objectives
