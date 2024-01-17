@@ -20,6 +20,36 @@
 
 ---
 
+
+# IMPORTANT NOTICES
+
+
+## 1. HEALTH AND WELLNESS
+
+-   Covid-19 and other respitory viruses are continuing to evolve and
+    infection and hospitalization rates continue to show depressing
+    cycles of surge and fall, at both a local and national level&#x2013;long
+    beyond what was hoped almost four years ago.
+
+-   To reduce the risk of infection and increase the possibility of
+    wellness allowing us to focus on learning and working together,
+    please be monitor your health and be mindful of others around
+    you. You are always welcome to wear a mask in class for whatever
+    reason and the professor will frequently do so.
+
+-   This is a request for us to think socially about how our choices
+    impact others and how we can maximize learning opportunities.
+    **Please respect each other's choices on this issue**.
+
+
+## 2. ZOOM AND CLASS RECORDINGS
+
+-   **ZOOM AND CLASS ATTENDANCE WHEN UNWELL** - If you feel sick or are
+    showing symptoms of Covid-19, flu or cold then **PLEASE BE
+    CONSIDERATE** of your classmates and attend the class remotely
+    through Zoom. All class sessions will be available live through Zoom
+    (see links in Canvas) and as recordings.
+
 ---
 
 
@@ -123,8 +153,17 @@ Humans*.
 
 ### Thursday 18 January
 
+-   Introduction to and overview of the class
+-   Setup and testing of JupyterHub
+    -   ****IMPORTANT**** Make sure you have completedd initial survey quiz in Canvas to get
+        your github userid setup on the class server.
+
+\#+BEGIN<sub>COMMENT</sub>
+
 
 ## Week 2 - Introduction and Setup
+
+READINGS: 
 
 
 ### Tuesday 23 January
@@ -135,6 +174,8 @@ Humans*.
 
 ## Week 3 -
 
+READINGS: 
+
 
 ### Tuesday 30 January
 
@@ -143,6 +184,8 @@ Humans*.
 
 
 ## Week 4 -
+
+READINGS: 
 
 
 ### Tuesday 06 February
@@ -153,6 +196,8 @@ Humans*.
 
 ## Week 5 -
 
+READINGS: 
+
 
 ### Tuesday 13 February
 
@@ -162,6 +207,8 @@ Humans*.
 
 ## Week 6 -
 
+READINGS: 
+
 
 ### Tuesday 20 February
 
@@ -170,6 +217,8 @@ Humans*.
 
 
 ## Week 7 -
+
+READINGS: 
 
 
 ### Tuesday 27 February
@@ -186,6 +235,8 @@ Humans*.
 
 ## Week 8 -
 
+READINGS: 
+
 
 ### Tuesday 12 March
 
@@ -194,6 +245,8 @@ Humans*.
 
 
 ## Week 9 -
+
+READINGS: 
 
 
 ### Tuesday 19 March
@@ -204,6 +257,8 @@ Humans*.
 
 ## Week 10 -
 
+READINGS: 
+
 
 ### Tuesday 26 March
 
@@ -212,6 +267,8 @@ Humans*.
 
 
 ## Week 11 -
+
+READINGS: 
 
 
 ### Tuesday 02 April
@@ -222,6 +279,8 @@ Humans*.
 
 ## Week 12 -
 
+READINGS: 
+
 
 ### Tuesday 09 April
 
@@ -230,6 +289,8 @@ Humans*.
 
 
 ## Week 13 -
+
+READINGS: 
 
 
 ### Tuesday 16 April
@@ -240,6 +301,8 @@ Humans*.
 
 ## Week 14 -
 
+READINGS: 
+
 
 ### Tuesday 23 April
 
@@ -249,6 +312,10 @@ Humans*.
 
 ## Week 15 -
 
+READINGS: 
+
 
 ### Tuesday 30 April
+
+\#+END<sub>COMMENT</sub>
 
