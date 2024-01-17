@@ -158,8 +158,6 @@ Humans*.
     -   ****IMPORTANT**** Make sure you have completedd initial survey quiz in Canvas to get
         your github userid setup on the class server.
 
-\#+BEGIN<sub>COMMENT</sub>
-
 
 ## Week 2 - Introduction and Setup
 
@@ -316,6 +314,4 @@ READINGS:
 
 
 ### Tuesday 30 April
-
-\#+END<sub>COMMENT</sub>
 
