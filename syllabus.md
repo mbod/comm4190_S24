@@ -26,7 +26,7 @@
 
 ## 1. HEALTH AND WELLNESS
 
--   Covid-19 and other respitory viruses are continuing to evolve and
+-   Covid-19 and other respiratory viruses are continuing to evolve and
     infection and hospitalization rates continue to show depressing
     cycles of surge and fall, at both a local and national level&#x2013;long
     beyond what was hoped almost four years ago.
@@ -42,13 +42,19 @@
     **Please respect each other's choices on this issue**.
 
 
-## 2. ZOOM AND CLASS RECORDINGS
+## 2. ATTENDANCE, ZOOM AND CLASS RECORDINGS
 
 -   **ZOOM AND CLASS ATTENDANCE WHEN UNWELL** - If you feel sick or are
     showing symptoms of Covid-19, flu or cold then **PLEASE BE
     CONSIDERATE** of your classmates and attend the class remotely
     through Zoom. All class sessions will be available live through Zoom
     (see links in Canvas) and as recordings.
+
+-   Please make use of ****absence notices**** in `Path@Penn` to inform the
+    professor if you need to miss class due to extenuating
+    circumstances. Submitting an absence notice does not excuse students
+    from their course obligations. But you can view missed class session
+    in class recordings in Canvas.
 
 ---
 
@@ -107,13 +113,13 @@ Through this course students will:
 
 # Assessment
 
--   Prompt/response and readings logbook (20%)
+-   Prompt/response and readings logbook (25%)
 
--   Research project (20%)
+-   Research project (25%)
 
 -   Coding assignments (20%)
 
--   Final Project (40%)
+-   Final Project (30%)
 
 
 # Textbooks and recommended readings
