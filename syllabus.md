@@ -130,11 +130,11 @@ Through this course students will:
 Mitchell, M. (2019) *Artificial Intelligence: A Guide for Thinking
 Humans*.
 
--   This book is referenced as **AITH** in the schedule below.
+-   This book is referenced as `AITH` in the schedule below.
 
 Phoenix, J. & Taylor, M.(2024) *Prompt Engineering for Generative AI*. O'Reilly Media, Inc.
 
--   This book is referenced as **PEGAI** in the schedule below.
+-   This book is referenced as `PEGAI` in the schedule below.
 
 
 ## Other readings
@@ -206,7 +206,7 @@ READINGS: Wolfram 2023 Blog post *What is ChatGPT Doing*
 
 READINGS:
 
--   `PEGAI` Introduction and Ch. 1
+-   `PEGAI` Ch. 1
 
 (<https://learning.oreilly.com/library/view/prompt-engineering-for/9781098153427/ch01.html>)
 
