@@ -130,6 +130,19 @@ Through this course students will:
 Mitchell, M. (2019) *Artificial Intelligence: A Guide for Thinking
 Humans*.
 
+-   This book is referenced as **AITH** in the schedule below.
+
+Phoenix, J. & Taylor, M.(2024) *Prompt Engineering for Generative AI*. O'Reilly Media, Inc.
+
+-   This book is referenced as **PEGAI** in the schedule below.
+
+
+## Other readings
+
+Wolfram, S. (2023) *What Is ChatGPT Doing … and Why Does It Work?*. Blog post February 14, 2023
+
+-   <https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/>
+
 
 # Schedule
 
@@ -167,21 +180,53 @@ Humans*.
 
 ## Week 2 - Introduction and Setup
 
-READINGS: 
+READINGS: Wolfram 2023 Blog post *What is ChatGPT Doing*
 
 
 ### Tuesday 23 January
 
+-   Understanding what LLMs are doing - next word prediction
+-   Some challenges for LLMs
+    -   spatial logic
+    -   theory of mind (ToM) scenarios
+
 
 ### Thursday 25 January
 
+-   Language as interaction and exchange
+    -   Turn types in conversation
+        -   Statements & Questions
+        -   Offers & Demands
+    -   Responses: Compilance vs Challenge
+-   Looking at GPT2
+    -   Word embeddings
 
-## Week 3 -
 
-READINGS: 
+## Week 3 - Prompting (Part 1) and How LLms are trained
+
+READINGS:
+
+-   `PEGAI` Introduction and Ch. 1
+
+(<https://learning.oreilly.com/library/view/prompt-engineering-for/9781098153427/ch01.html>)
 
 
 ### Tuesday 30 January
+
+-   Overview of Prompt Engineering
+-   Overview of how LLMs are built
+    1.  Pretraining
+        -   Self-supervised
+        -   Next word prediction
+    2.  Finetuning
+        -   Domain
+        -   Task
+        -   Instruction
+    3.  Reinforcement Learning
+        -   RLHF: Reinforcement Learning from Human Feedback
+-   How LLMs work (continued)
+    -   Embeddings
+-   Setting up blogging platform for Prompt/Response Logbook Assignment
 
 
 ### Thursday 01 February
