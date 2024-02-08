@@ -113,13 +113,53 @@ Through this course students will:
 
 # Assessment
 
--   Prompt/response and readings logbook (25%)
 
--   Research project (25%)
+## Overview of assignments
 
--   Coding assignments (20%)
+-   Prompt/response and readings blogging (30%)
 
--   Final Project (30%)
+-   Coding assignments (15%)
+
+-   Research project (20%)
+
+-   Final Project (35%)
+
+
+## Details
+
+1.  Prompt/response blog (30%)
+    -   Over the course of the semester you will create 2 or 3 blog posts
+        a week using the notebook blogging system setup to generate a
+        github pages blog
+    -   Each blog post should be a short and engaging analysis exploring topics such as:
+        -   how LLMs respond to specific prompts
+        -   whether they are are able or unable to mirror certain human
+            communicative behaviors (e.g. recognize and use idioms)
+        -   demonstrate the use of an LLM for a specific task
+            (e.g. generating product names, descriptions and branding)
+    -   Students are engaged to follow each others blogging
+
+2.  Coding Assignments (15%)
+    -   There will be a small number of coding assignments to help
+        practice the use of LLMs through APIs, do batch processing of
+        prompts, evaluate responses and models, creating a RAG LLM system
+        and simple finetuning
+    -   Assignments will be released as Jupyter notebooks and submitted through JupyterHub
+
+3.  Research Project (20%)
+    -   The focus of this project is to either:
+        1.  Select a theoretical communication framework
+            (e.g. Accomodation Theory) developed to explain human
+            communication behavior and explore its implications for
+            communicating with (in both senses) an LLM.
+        2.  Examine a specific communicative context or example
+            (e.g. political debate, interaction between customer and
+            service representive, a messaging campaign in health
+            communication, etc.) and explore whether and how LLMs might be
+            used and the associated implications.
+    -   Write a paper/report in Markdown using Zotero citations.
+
+4.  Final Project (35%)
 
 
 # Textbooks and recommended readings
@@ -202,7 +242,7 @@ READINGS: Wolfram 2023 Blog post *What is ChatGPT Doing*
     -   Word embeddings
 
 
-## Week 3 - Prompting (Part 1) and How LLms are trained
+## Week 3 - Prompting and How LLms are trained (Part 1)
 
 READINGS:
 
@@ -226,29 +266,56 @@ READINGS:
         -   RLHF: Reinforcement Learning from Human Feedback
 -   How LLMs work (continued)
     -   Embeddings
--   Setting up blogging platform for Prompt/Response Logbook Assignment
 
 
 ### Thursday 01 February
 
+-   Exercise: Using LLMs to create a branding for a product
+-   Tool: <https://chat.lmsys.org>
+    -   Comparing responses from multiple LLMs
 
-## Week 4 -
 
-READINGS: 
+## Week 4 - Prompting and How LLMs are trained (Part 2)
+
+READINGS:
+
+-   `PEGAI` Ch. 2 (<https://learning.oreilly.com/library/view/prompt-engineering-for/9781098153427/ch02.html>)
 
 
 ### Tuesday 06 February
 
+-   Setting up blogging platform for Prompt/Response Logbook Assignment
+
 
 ### Thursday 08 February
 
+-   Watch this video: <https://www.youtube.com/watch?v=OFS90-FX6pg>
 
-## Week 5 -
+-   How do LLMs work
+    -   Dealing with context
+    -   Transformer and self-attention
+-   How LLMs are trained
+    -   Stage 1: Pretraining
+
+-   Open vs Closed (Proprietory) models
+-   Running local LLMs
+
+
+## Week 5 - How LLMs are trained and does conversation work?
 
 READINGS: 
 
+-   `PEGAI` Ch. 3 (<https://learning.oreilly.com/library/view/prompt-engineering-for/9781098153427/ch03.html>)
+
 
 ### Tuesday 13 February
+
+-   How LLMs are trained
+    -   Stage 2: Fine Tuning
+        1.  Domain
+        2.  Task
+        3.  Instruction
+-   From next word prediction tool to chatbot
 
 
 ### Thursday 15 February
