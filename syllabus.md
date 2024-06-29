@@ -13,7 +13,7 @@
 
 -   Email: mbod@asc.upenn.edu
 -   Office Hours: via Zoom (see link in Canvas)
-    -   Specfic times TBA
+    -   Specific times TBA
         -   But this may vary and I will always try and be available for
             appointments outside these times if you email with sufficient
             notice.
@@ -118,7 +118,7 @@ Through this course students will:
 
 -   Prompt/response and readings blogging (30%)
 
--   Coding assignments (15%)
+-   Coding and task assignments (15%)
 
 -   Research project (20%)
 
@@ -139,27 +139,37 @@ Through this course students will:
             (e.g. generating product names, descriptions and branding)
     -   Students are engaged to follow each others blogging
 
-2.  Coding Assignments (15%)
+2.  Coding and Task Assignments (15%)
     -   There will be a small number of coding assignments to help
         practice the use of LLMs through APIs, do batch processing of
         prompts, evaluate responses and models, creating a RAG LLM system
         and simple finetuning
-    -   Assignments will be released as Jupyter notebooks and submitted through JupyterHub
+    -   In addition, there will some assignments focused on using LLMs to
+        generate particular content (e.g. persuasive health messages) or
+        emulate common communicative tasks.
+    -   Assignments will either be released as Jupyter notebooks and
+        submitted through JupyterHub OR as Canvas assignments
+    -   We will use github repositories for content to help you build up
+        a portfolio of example work.
 
 3.  Research Project (20%)
     -   The focus of this project is to either:
         1.  Select a theoretical communication framework
-            (e.g. Accomodation Theory) developed to explain human
+            (e.g. Accommodation Theory) developed to explain human
             communication behavior and explore its implications for
             communicating with (in both senses) an LLM.
         2.  Examine a specific communicative context or example
             (e.g. political debate, interaction between customer and
-            service representive, a messaging campaign in health
+            service representative, a messaging campaign in health
             communication, etc.) and explore whether and how LLMs might be
             used and the associated implications.
     -   Write a paper/report in Markdown using Zotero citations.
 
 4.  Final Project (35%)
+    -   You can select to work in a team (of two or three) or work on your own
+    -   The goal of this project is for you to create an LLM-based
+        application, focused on a particular task or communicative
+        context.
 
 
 # Textbooks and recommended readings
@@ -175,6 +185,13 @@ Humans*.
 Phoenix, J. & Taylor, M.(2024) *Prompt Engineering for Generative AI*. O'Reilly Media, Inc.
 
 -   This book is referenced as `PEGAI` in the schedule below.
+-   It is available online through the library and the UPenn O'Reilly subscription
+
+Kaplan, J. (2024) *Generative Artificial Intelligence: What Everyone Needs to Know*. Oxford University Press
+
+-   This book is available online through the library:
+    <https://whateveryoneneedstoknow.com/display/10.1093/wentk/9780197773536.001.0001/wentk-9780197773536>
+-   Reference to it in the schedule is as `GAI`
 
 
 ## Other readings
@@ -182,6 +199,8 @@ Phoenix, J. & Taylor, M.(2024) *Prompt Engineering for Generative AI*. O'Reilly 
 Wolfram, S. (2023) *What Is ChatGPT Doing … and Why Does It Work?*. Blog post February 14, 2023
 
 -   <https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/>
+
+Christiansen, M.H. and Chater, N. (2022) *The Language Game: How Improvisation Created Language and Changed the World*. Basic Books.
 
 
 # Schedule
@@ -195,11 +214,11 @@ Wolfram, S. (2023) *What Is ChatGPT Doing … and Why Does It Work?*. Blog post 
 -   Usually each class session will be divided into two parts:
 
 -   **Content and Discussion** - This part of the class will introduce
-    and review the key topics onlined in the schedule. It is important
+    and review the key topics outlined in the schedule. It is important
     that you read the assigned material BEFORE the class as you'll be
     expected to engage in discussion and other activities based on this
     content.
--   **Lab activities** - The second part will be focused on pratical
+-   **Lab activities** - The second part will be focused on practical
     exercises to put into practice what we have been learning about
     thinking about, collecting, analyzing, interpreting and
     communicating data. This will include learning some basic steps
@@ -214,7 +233,7 @@ Wolfram, S. (2023) *What Is ChatGPT Doing … and Why Does It Work?*. Blog post 
 
 -   Introduction to and overview of the class
 -   Setup and testing of JupyterHub
-    -   ****IMPORTANT**** Make sure you have completedd initial survey quiz in Canvas to get
+    -   ****IMPORTANT**** Make sure you have completed initial survey quiz in Canvas to get
         your github userid setup on the class server.
 
 
@@ -237,12 +256,12 @@ READINGS: Wolfram 2023 Blog post *What is ChatGPT Doing*
     -   Turn types in conversation
         -   Statements & Questions
         -   Offers & Demands
-    -   Responses: Compilance vs Challenge
+    -   Responses: Compliance vs Challenge
 -   Looking at GPT2
     -   Word embeddings
 
 
-## Week 3 - Prompting and How LLms are trained (Part 1)
+## Week 3 - Prompting and How LLMs are trained (Part 1)
 
 READINGS:
 
@@ -297,18 +316,33 @@ READINGS:
 -   How LLMs are trained
     -   Stage 1: Pretraining
 
--   Open vs Closed (Proprietory) models
+-   Open vs Closed (Proprietary) models
 -   Running local LLMs
 
 
-## Week 5 - How LLMs are trained and does conversation work?
+## Week 5 - How LLMs are trained and does conversation with an LLM work?
 
 READINGS: 
 
--   `PEGAI` Ch. 3 (<https://learning.oreilly.com/library/view/prompt-engineering-for/9781098153427/ch03.html>)
+-   `PEGAI` Ch. 3 (<https://learning.oreilly.com/library/view/prompt-engineepring-for/9781098153427/ch03.html>)
 
 
 ### Tuesday 13 February
+
+-   Overview of LLM model landscape
+
+-   Using <span class="underline">Hugging Face</span>
+
+
+### Thursday 15 February
+
+
+## Week 6 - How LLMs are trained - Finetuning
+
+READINGS: 
+
+
+### Tuesday 20 February
 
 -   How LLMs are trained
     -   Stage 2: Fine Tuning
@@ -316,17 +350,6 @@ READINGS:
         2.  Task
         3.  Instruction
 -   From next word prediction tool to chatbot
-
-
-### Thursday 15 February
-
-
-## Week 6 -
-
-READINGS: 
-
-
-### Tuesday 20 February
 
 
 ### Thursday 22 February
@@ -360,7 +383,7 @@ READINGS:
 ### Thursday 14 March
 
 
-## Week 9 -
+## Week 9 - Langchain (Part 1) and Gradio for building LLM applications
 
 READINGS: 
 
@@ -371,40 +394,53 @@ READINGS:
 ### Thursday 21 March
 
 
-## Week 10 -
+## Week 10 - Arguing with LLMs
 
 READINGS: 
 
 
 ### Tuesday 26 March
 
+-   Choice dilemma task
+-   Group consensus
+
 
 ### Thursday 28 March
 
+-   Using \`langchain\`
 
-## Week 11 -
+
+## Week 11 - LLMs and Knowledge Seeking
 
 READINGS: 
 
 
 ### Tuesday 02 April
 
+-   Retrieval Augmented Generation (RAG)
+-   RAG using \`langchain\`
+
 
 ### Thursday 04 April
 
+-   
 
-## Week 12 -
+
+## Week 12 - LLMs and Knowledge Seeking (cont)
 
 READINGS: 
 
 
 ### Tuesday 09 April
 
+-   Using RAG in \`langchain\`
+-   Web-based RAG
+
 
 ### Thursday 11 April
 
 
-## Week 13 -
+## Week 13 - LLMs as agents
 
 READINGS: 
 
@@ -415,7 +451,7 @@ READINGS:
 ### Thursday 18 April
 
 
-## Week 14 -
+## Week 14 - LLMs as agents
 
 READINGS: 
 
@@ -426,10 +462,13 @@ READINGS:
 ### Thursday 25 April
 
 
-## Week 15 -
+## Week 15 - Summary
 
 READINGS: 
 
 
 ### Tuesday 30 April
+
+
+### ASSIGNMENTS DUE - Sunday 12 May @ 11.59pm
 
